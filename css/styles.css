@@ -60,6 +60,7 @@ body {
   text-decoration: none;
 
   color: var(--black-color);
+  cursor: default;
 }
 
 .header-logo > span,
