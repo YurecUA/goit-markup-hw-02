@@ -159,7 +159,6 @@ body {
 }
 
 .feature-text {
-  font-weight: 400;
   line-height: 1.71;
 
   font-style: normal;
@@ -192,7 +191,6 @@ body {
 }
 
 .team-person-position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
 
@@ -241,7 +239,6 @@ body {
 }
 
 .portfolio-element-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
   font-style: normal;
@@ -270,6 +267,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
+  font-style: normal;
 
   color: var(--rgbawhitehigh-color);
 }
