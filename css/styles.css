@@ -59,13 +59,13 @@ body {
   font-size: 26px;
   line-height: 1.19;
   text-decoration: none;
+  font-style: normal;
 
   color: var(--black-color);
   cursor: default;
 }
 
-.header-logo,
-.footer-logo {
+.web {
   color: var(--azure-color);
 }
 
