@@ -64,8 +64,8 @@ body {
   cursor: default;
 }
 
-.header-logo > span,
-.footer-logo > span {
+.header-logo,
+.footer-logo {
   color: var(--azure-color);
 }
 
